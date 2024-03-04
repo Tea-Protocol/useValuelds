@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tea-Protocol/useValuelds.git"
+    "url": "https://github.com/Tea-Protocol/useValuelds"
   },
   "author": "",
   "license": "ISC",
